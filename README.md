@@ -79,13 +79,4 @@ jupyter lab
 ```
 4. Open `notebooks/01_EDA_titanic.ipynb` and run all cells.
 
-## 📝 Interview Questions (Summary)
-- **Purpose of EDA**: Understand dataset, detect issues, guide modeling.
-- **Boxplots**: Show spread, median, and outliers clearly.
-- **Correlation**: Measures linear relationships, useful for detecting redundancy.
-- **Skewness**: Checked using skew(), histograms, QQ-plots; fix via transformations.
-- **Multicollinearity**: High correlations among predictors, detected via VIF.
-- **Visualization**: Crucial for pattern detection and communication.
-
----
 👤 Author: Himanshi Deep
